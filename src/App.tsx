@@ -1,3 +1,4 @@
+// Merge-conflict safe version: unified around the interactive map-first demo flow.
 import { ReactNode, useMemo, useState } from 'react';
 import { AlertTriangle, CheckCircle2, PlayCircle, StepForward, Truck } from 'lucide-react';
 
